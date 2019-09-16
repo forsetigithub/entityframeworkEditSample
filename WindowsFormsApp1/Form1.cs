@@ -50,7 +50,7 @@ namespace WindowsFormsApp1 {
         var entityitem = new T_PassWord() {
           CompanyCode = 2,
           EmployeeCode = "200026",
-          OldID = "kimuraZcccc"
+          OldID = "kimuraZccccd"
         };
 
         var edit = new EditTable<T_PassWord,MusuHR_TEntities>();
